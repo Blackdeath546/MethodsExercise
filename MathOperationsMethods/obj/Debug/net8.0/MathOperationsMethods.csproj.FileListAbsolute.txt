@@ -1,0 +1,15 @@
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\bin\Debug\net8.0\MathOperationsMethods.exe
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\bin\Debug\net8.0\MathOperationsMethods.deps.json
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\bin\Debug\net8.0\MathOperationsMethods.runtimeconfig.json
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\bin\Debug\net8.0\MathOperationsMethods.dll
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\bin\Debug\net8.0\MathOperationsMethods.pdb
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.AssemblyInfoInputs.cache
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.AssemblyInfo.cs
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.csproj.CoreCompileInputs.cache
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.sourcelink.json
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.dll
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\refint\MathOperationsMethods.dll
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.pdb
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\MathOperationsMethods.genruntimeconfig.cache
+C:\CODING\repos\MethodsExercise\MathOperationsMethods\obj\Debug\net8.0\ref\MathOperationsMethods.dll
